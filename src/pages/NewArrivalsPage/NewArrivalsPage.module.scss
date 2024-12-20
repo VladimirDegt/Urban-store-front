@@ -1,0 +1,13 @@
+.newArrivals {
+    max-width: 1324px;
+    width: 1324px;
+    margin: 40px auto 80px;
+    overflow: hidden;
+
+    &__title{
+        display: flex;
+        justify-content: space-between;
+        margin: 30px 0 40px;
+    }
+}
+
